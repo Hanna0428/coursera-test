@@ -182,7 +182,7 @@ h1 {
  	border: 1px solid black;
     height: 30px;
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
  }
  #p3 {
  	background-color: #5F9EA0;
@@ -192,5 +192,6 @@ h1 {
  	border: 1px solid black;
     height: 30px;
     margin-top: 0;
+	 margin-bottom: 5px;
  }
  }
