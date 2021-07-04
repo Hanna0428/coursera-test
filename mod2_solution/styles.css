@@ -18,8 +18,7 @@ h1 {
 	margin-bottom: 15px;
 	margin-right: 15px;
 	margin-left: 15px;
-	width: 90%;
-	clear: left;
+		clear: right;
 
 }
 .box {
@@ -182,7 +181,7 @@ h1 {
  	border: 1px solid black;
     height: 30px;
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
  }
  #p3 {
  	background-color: #5F9EA0;
@@ -192,5 +191,6 @@ h1 {
  	border: 1px solid black;
     height: 30px;
     margin-top: 0;
+    margin-bottom: 5px;
  }
  }
