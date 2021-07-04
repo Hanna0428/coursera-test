@@ -23,6 +23,9 @@ h1 {
 =======
 	width: 90%;
 	clear: right;
+<<<<<<< HEAD
+>>>>>>> 630f8cd0fb53c10420a968e01be007fc71d22946
+=======
 >>>>>>> 630f8cd0fb53c10420a968e01be007fc71d22946
 
 }
@@ -197,7 +200,12 @@ h1 {
     height: 30px;
     margin-top: 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
     margin-bottom: 5px;
+=======
+	 margin-bottom: 5px;
+ }
+>>>>>>> 630f8cd0fb53c10420a968e01be007fc71d22946
 =======
 	 margin-bottom: 5px;
  }
